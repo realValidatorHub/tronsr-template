@@ -1,1 +1,3 @@
-Supply a clear budget line.
+Join the Revolution At ValidatorHub, we’re committed to elevating the TRON network by actively participating as Super Representatives (SR). We pledge a 80% reward distribution to the TRON's voting community, with an 5% dedicated to promoting the TRON blockchain on ValidatorHub as well as the growth of ValidatorHub.
+
+Additionally, ValidatorHub will give 50% of their profits from advertisement from other blockchain technologies as royalties for all SRs and partners. Treating TRON as a Mother company.
