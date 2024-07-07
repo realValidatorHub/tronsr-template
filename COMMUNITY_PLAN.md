@@ -1,1 +1,1 @@
-Describe the plan to support the community
+Our Mission: Our dedication to the TRON ecosystem is rooted in our belief in its unmatched scalability, lightning-fast transactions, and ironclad security. By engaging in the validation process, we aim to enhance the functionality of decentralized applications (dApps) and nurture a more trustworthy and efficient network. As TRON evolves, we’re excited to contribute to its decentralization and robustness, solidifying its position as a frontrunner in the blockchain arena.
