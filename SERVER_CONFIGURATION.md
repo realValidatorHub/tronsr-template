@@ -1,1 +1,1 @@
-Describe your server configuration
+AWS EC2 instance C5 9XL VCPU 36 18-core X86_64 Memo 72 5TB 20TB-SSD EBS_12GB CPS 3.4  Ubuntu Server 24.04 
