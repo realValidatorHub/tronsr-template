@@ -1,14 +1,8 @@
-## Founder
+## Founders
 
-Name: [name]
-Role: [role]
+Name: Riaan Hefer
+Role: Blockchain Architect 
 
-## Team Member 1
+Name: Isak Labuscagne
+Role: DevNet
 
-Name: [name]
-Role: [role]
-
-## Team Member 2
-
-Name: [name]
-Role: [role]
