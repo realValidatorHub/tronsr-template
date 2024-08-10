@@ -4,5 +4,5 @@ Name: Riaan Hefer
 Role: Blockchain Architect 
 
 Name: Isak Labuscagne
-Role: DevNet
+Role: DevNet Developer
 
